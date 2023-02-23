@@ -1,77 +1,131 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <movies>
-	<movie id="001">
+  <movie id="001">
+    <firstname>سریال اینترنتی</firstname>
+    <lastname>Sahmaran / شاهماران - ترکیه / 2023 - Netflix</lastname>
+    <title>فصل اول</title>
+    <division>*****</division>
+    <building>327</building>
+    <room>//newmvbz.bid/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%b3%d8%b1%db%8c%d8%a7%d9%84-%d8%a7%db%8c%d9%86%d8%aa%d8%b1%d9%86%d8%aa%db%8c-sahmaran-%d8%b4%d8%a7%d9%87%d9%85%d8%a7%d8%b1%d8%a7%d9%86/</room>
+  </movie>
+
+  <movie id="001">
+    <firstname>سریال اینترنتی</firstname>
+    <lastname>Etkileyici / تاثیرگذار - ترکیه / 2021 - Gain</lastname>
+    <title>فصل اول و دوم</title>
+    <division>*****</division>
+    <building>327</building>
+    <room>https://newmvbz.bid/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%b3%d8%b1%db%8c%d8%a7%d9%84-%d8%a7%db%8c%d9%86%d8%aa%d8%b1%d9%86%d8%aa%db%8c-etkileyici-%d8%aa%d8%a7%d8%ab%db%8c%d8%b1%da%af%d8%b0%d8%a7%d8%b1/</room>
+  </movie>
+
+  <movie id="001">
+    <firstname>سریال اینترنتی</firstname>
+    <lastname>Viola come il mare / ویولا (بنفش) مثل دریا - ایتالیا / 2022</lastname>
+    <title>فصل اول</title>
+    <division>*****-بازیگرمردترکیه</division>
+    <building>327</building>
+    <room>https://newmvbz.bid/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%b3%d8%b1%db%8c%d8%a7%d9%84-%d8%a7%db%8c%d8%aa%d8%a7%d9%84%db%8c%d8%a7%db%8c%db%8c-viola-come-il-mare-%d8%a8%d9%86%d9%81%d8%b4-%d9%85%d8%ab%d9%84-%d8%af%d8%b1/</room>
+  </movie>
+
+  <movie id="002">
 		<firstname>سـریال</firstname>
-		<lastname>سریـال ترکی Intikam (انتقام) محصول سال 2013</lastname>
-		<title>Visit W3Schools.com!</title>
-		<division>Materials</division>
+		<lastname>Intikam / انتقام - 2013 / ترکیه</lastname>
+		<title>زیرنویس تا قسمت 36</title>
+		<division>*****-توصیه می کنم</division>
 		<building>327</building>
-		<room>"https://a9018.github.io/FA/index.html"</room>
-	</movie>
-	<movie id="002">
-		<firstname>Amit</firstname>
-		<lastname>Kumar</lastname>
-		<title>Accountant</title>
-		<division>Accts Payable</division>
-		<building>326</building>
-		<room>14</room>
-	</movie>
-	<movie id="003">
-		<firstname>Akash</firstname>
-		<lastname>Kumar</lastname>
-		<title>Engineering Manager</title>
-		<division>Materials</division>
-		<building>327</building>
-		<room>21</room>
-	</movie>
-	<movie id="004">
-		<firstname>Aishwarya</firstname>
-		<lastname>Kulshrestha</lastname>
-		<title>Engineer</title>
-		<division>Materials</division>
-		<building>327</building>
-		<room>22</room>
-	</movie>
-	<movie id="005">
-		<firstname>Sachin</firstname>
-		<lastname>Kumar</lastname>
-		<title>Engineer</title>
-		<division>Materials</division>
-		<building>327</building>
-		<room>24</room>
-	</movie>
-	<movie id="006">
-		<firstname>Vikash</firstname>
-		<lastname>kumar</lastname>
-		<title>COO</title>
-		<division>Management</division>
-		<building>216</building>
-		<room>26</room>
-	</movie>
-	<movie id="007">
-		<firstname>Suvam</firstname>
-		<lastname>Basak</lastname>
-		<title>Accountant</title>
-		<division>Accts Payable</division>
-		<building>326</building>
-		<room>30</room>
-	</movie>
-	<movie id="008">
-		<firstname>Abhinav</firstname>
-		<lastname>kumar</lastname>
-		<title>COO</title>
-		<division>Management</division>
-		<building>216</building>
-		<room>32</room>
-	</movie>
-	<movie id="009">
-		<firstname>DhanPal</firstname>
-		<lastname>Singh</lastname>
-		<title>Engineering Manager</title>
-		<division>Materials</division>
-		<building>327</building>
-		<room>21</room>
-	</movie>
-	
+    <room>//newmvbz.bid/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%b3%d8%b1%db%8c%d8%a7%d9%84-%d8%aa%d8%b1%da%a9%db%8c-intikam-%d8%a7%d9%86%d8%aa%d9%82%d8%a7%d9%85/</room>
+  </movie>
+
+  <movie id="002">
+    <firstname>سـریال</firstname>
+    <lastname>Yali Capkini – چشم چران عمارت - 2022 / ترکیه</lastname>
+    <title>شنبه</title>
+    <division>*****</division>
+    <building>327</building>
+    <room>https://newmvbz.bid/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%b3%d8%b1%db%8c%d8%a7%d9%84-%d8%aa%d8%b1%da%a9%db%8c-yali-capkini-%da%86%d8%b4%d9%85-%da%86%d8%b1%d8%a7%d9%86-%d8%b9%d9%85%d8%a7%d8%b1%d8%aa/</room>
+  </movie>
+
+  <movie id="002">
+    <firstname>سـریال</firstname>
+    <lastname>Ates Kuslari – پرندگان آتش - 2023 / ترکیه</lastname>
+    <title>شنبه</title>
+    <division>*****</division>
+    <building>327</building>
+    <room>https://newmvbz.bid/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%b3%d8%b1%db%8c%d8%a7%d9%84-%d8%aa%d8%b1%da%a9%db%8c-ates-kuslari-%d9%be%d8%b1%d9%86%d8%af%da%af%d8%a7%d9%86-%d8%a2%d8%aa%d8%b4/</room>
+  </movie>
+
+  <movie id="002">
+    <firstname>سـریال</firstname>
+    <lastname>Erkege Guven Olmaz – به مرد جماعت نمیشه اعتماد کرد - 2023 / ترکیه</lastname>
+    <title>دوشنبه</title>
+    <division>*****</division>
+    <building>327</building>
+    <room>https://newmvbz.bid/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%b3%d8%b1%db%8c%d8%a7%d9%84-%d8%aa%d8%b1%da%a9%db%8c-erkege-guven-olmaz-%d8%a8%d9%87-%d9%85%d8%b1%d8%af-%d8%ac%d9%85%d8%a7%d8%b9%d8%aa-%d9%86%d9%85%db%8c%d8%b4/</room>
+  </movie>
+
+  <movie id="002">
+    <firstname>سـریال</firstname>
+    <lastname>Gecenin Ucunda – در انتهای شب - 2022 / ترکیه</lastname>
+    <title>چهارشنبه</title>
+    <division>*****</division>
+    <building>327</building>
+    <room>https://newmvbz.bid/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%b3%d8%b1%db%8c%d8%a7%d9%84-%d8%aa%d8%b1%da%a9%db%8c-gecenin-ucunda-%d8%af%d8%b1-%d8%a7%d9%86%d8%aa%d9%87%d8%a7%db%8c-%d8%b4%d8%a8/</room>
+  </movie>
+
+  <movie id="002">
+    <firstname>سـریال</firstname>
+    <lastname>Yurek Cikmazi – بن بست دل - 2022 / ترکیه</lastname>
+    <title>چهارشنبه</title>
+    <division>*****</division>
+    <building>327</building>
+    <room>https://newmvbz.bid/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%b3%d8%b1%db%8c%d8%a7%d9%84-%d8%aa%d8%b1%da%a9%db%8c-yurek-cikmazi-%d8%a8%d9%86-%d8%a8%d8%b3%d8%aa-%d8%af%d9%84/</room>
+  </movie>
+
+  <movie id="002">
+    <firstname>سـریال</firstname>
+    <lastname>Üç Kız Kardeş – سه خواهر - 2022 / ترکیه</lastname>
+    <title>چهارشنبه</title>
+    <division>***</division>
+    <building>327</building>
+    <room>https://newmvbz.bid/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%b3%d8%b1%db%8c%d8%a7%d9%84-%d8%aa%d8%b1%da%a9%db%8c-uc-kiz-kardes-%d8%b3%d9%87-%d8%ae%d9%88%d8%a7%d9%87%d8%b1/</room>
+  </movie>
+
+  <movie id="002">
+    <firstname>سـریال</firstname>
+    <lastname>Hayatimin Sansi – شانس زندگیم - 2022 / ترکیه</lastname>
+    <title>پنجشنبه</title>
+    <division>*****</division>
+    <building>327</building>
+    <room>https://newmvbz.bid/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%b3%d8%b1%db%8c%d8%a7%d9%84-%d8%aa%d8%b1%da%a9%db%8c-hayatimin-sansi-%d8%b4%d8%a7%d9%86%d8%b3-%d8%b2%d9%86%d8%af%da%af%db%8c%d9%85-2/</room>
+  </movie>
+
+  <movie id="002">
+    <firstname>سـریال</firstname>
+    <lastname>Tuzak – تله - 2022 / ترکیه</lastname>
+    <title>جمعه</title>
+    <division>*****</division>
+    <building>327</building>
+    <room>https://newmvbz.bid/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%b3%d8%b1%db%8c%d8%a7%d9%84-%d8%aa%d8%b1%da%a9%db%8c-tuzak-%d8%aa%d9%84%d9%87/</room>
+  </movie>
+
+
+
+  <movie id="002">
+    <firstname>سـریال</firstname>
+    <lastname>Gelsin Hayat Bildiği Gibi – هرچی میخواد بشه - 2022 / ترکیه</lastname>
+    <title>جمعه</title>
+    <division>***</division>
+    <building>327</building>
+    <room>https://newmvbz.bid/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%b3%d8%b1%db%8c%d8%a7%d9%84-%d8%aa%d8%b1%da%a9%db%8c-gelsin-hayat-bildigi-gibi-%d9%87%d8%b1%da%86%db%8c-%d9%85%db%8c%d8%ae%d9%88%d8%a7%d8%af-%d8%a8%d8%b4%d9%87/</room>
+  </movie>
+
+
+
+
+
+
+
+
+
 
 </movies>

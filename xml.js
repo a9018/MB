@@ -20,7 +20,6 @@ function MBDetails(xml) {
 	var table =
 		`<tr><th>عـنوان</th><th>نـام</th>
 					<th>پخـش</th><th>رتـبه</th>
-					<th>Building</th><th>Room</th>
 				</tr>`;
 	var x = xmlDoc.getElementsByTagName("movie");
 	
@@ -28,33 +27,34 @@ function MBDetails(xml) {
 	for (i = 0; i < x.length; i++) {
 		table += "<tr><td>" +
 			x[i].getElementsByTagName("firstname")[0]
-				.childNodes[0].nodeValue + "</td><td>" + 
+				.childNodes[0].nodeValue + "</td><td>" +
 			x[i].getElementsByTagName("lastname")[0]
 				.childNodes[0].nodeValue + "</td><td>" +
 			x[i].getElementsByTagName("title")[0]
 				.childNodes[0].nodeValue + "</td><td>" +
 			x[i].getElementsByTagName("division")[0]
-				.childNodes[0].nodeValue + "</td><td>" +
+				.childNodes[0].nodeValue + "</td><td>";
+/*			+
 			x[i].getElementsByTagName("building")[0]
 				.childNodes[0].nodeValue + "</td><td>" +
 			x[i].getElementsByTagName("room")[0]
-				.childNodes[0].nodeValue + "</td></tr>";
+				.childNodes[0].nodeValue + "</td></tr>";*/
 	}
 
 	// Print the xml data in table form
 	document.getElementById("id").innerHTML = table;
 
-	var myLink = x[0].getElementsByTagName("room")[0].childNodes[0].nodeValue;
-	var link = document.createElement("a");
-	link.setAttribute("href", myLink);
-
-	link.className = "someCSSclass";
-	// For IE only, you can simply set the innerText of the node.
-	// The below code, however, should work on all browsers.
-	var linkText = document.createTextNode("تلفن تماس");
-	link.appendChild(linkText);
 	var myTable = document.getElementById('id');
-	myTable.rows[1].cells[1].innerHTML = ""
-	myTable.rows[1].cells[1].appendChild(link);
-	myTable.rows[1].cells[0].innerHTML = myLink;
+	for (i = 0; i < x.length; i++) {
+		var link = document.createElement("a");
+		var linkText = document.createTextNode(myTable.rows[1 + i].cells[1].innerText);
+		link.appendChild(linkText);
+		link.className = "LinkCSSclass";
+		link.setAttribute("href", x[i].getElementsByTagName("room")[0].childNodes[0].nodeValue);
+		myTable.rows[1+i].cells[1].innerHTML = ""
+		myTable.rows[1+i].cells[1].appendChild(link);
+	}
+	
+
+
 }
