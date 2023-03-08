@@ -3,34 +3,41 @@
           Cache-Control:public;>
 <html >
 <head>
-	<title>فیـــلم - ســـریال</title>
+    <meta charset="utf-8" />
+    <meta name="Gold" content="width=device-width" />
+    <title>فیـــلم - ســـریال</title>
+    <!--   <link rel="icon" type="image/x-icon" href="/images/apartment.png">   -->
+    <link href="styles/style.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" />
 
-	<!-- CSS -->
-	<style>
+    <!-- CSS -->
+    <style>
         @font-face {
             font-family: "customFont";
             src: url("sitefonts/bNazanin.ttf") format("truetype");
         }
+
         html {
             direction: rtl;
             font-family: "customFont", Arial, sans-serif;
             font-weight: bold;
-			color: blue;
+            color: blue;
         }
-		table {
-			border-collapse: collapse;
-			width: 100%;
-		}
+
+        table {
+            border-collapse: collapse;
+            // width: 100%;
+        }
 
         td {
             text-align: right;
             padding: 8px;
             font-size: 20px;
-         }
+        }
 
-		tr:nth-child(even) {
-			background-color: #7ce2af
-		}
+        tr:nth-child(even) {
+            background-color: #7ce2af
+        }
 
         th {
             background-color: #7c0f65;
@@ -46,22 +53,23 @@
             padding: 20px;
             border: 4px solid rgb(55, 12, 211);
             background: rgba(20, 192, 4, 0.5);
-            color: rgb(230, 36, 78); 
+            color: white;/*rgb(230, 36, 78);*/
             outline: none;
             border-radius: 30px;
             font-size: 30px;
             width: 500px;
         }
 
-		.button:hover {
-			color: blue;
-			background: white;
-			font-size: 30px;
-		}
+            .button:hover {
+                color: blue;
+                background: white;
+                font-size: 30px;
+            }
+
         a {
             text-decoration: none;
         }
-	</style>
+    </style>
 
 </head>
 
@@ -72,7 +80,7 @@
         </button>
     </center>
 
-    <br><br>
+    <br>
     <table id="id"></table>
     <script type="text/javascript" src="xml.js" charset="UTF-8"></script>
 

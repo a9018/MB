@@ -33,7 +33,7 @@ function MBDetails(xml) {
 			x[i].getElementsByTagName("title")[0]
 				.childNodes[0].nodeValue + "</td><td>" +
 			x[i].getElementsByTagName("division")[0]
-				.childNodes[0].nodeValue + "</td><td>";
+				.childNodes[0].nodeValue + "</td>";
 /*			+
 			x[i].getElementsByTagName("building")[0]
 				.childNodes[0].nodeValue + "</td><td>" +
