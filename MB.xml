@@ -2,13 +2,22 @@
 <movies>
   <movie id="001">
     <firstname>سریال اینترنتی</firstname>
+    <lastname>Terzi / خیاط - ترکیه / 2023 - Netflix</lastname>
+    <title>فصل اول</title>
+    <division>*****</division>
+    <building>327</building>
+    <room>https://newmvbz.bid/?p=73803</room>
+  </movie>
+
+  <movie id="001">
+    <firstname>سریال اینترنتی</firstname>
     <lastname>?Biz Kimden Kaciyorduk Anne  / مامان ما از دست کی فرار میکردیم؟ - ترکیه / 2023 - Netflix</lastname>
     <title>فصل اول</title>
     <division>*****</division>
     <building>327</building>
     <room>https://newmvbz.bid/?p=73395</room>
   </movie>
-
+  
   <movie id="001">
     <firstname>سریال اینترنتی</firstname>
     <lastname>Sahmaran / شاهماران - ترکیه / 2023 - Netflix</lastname>
@@ -93,7 +102,7 @@
   <movie id="002">
     <firstname>سـریال</firstname>
     <lastname>Gecenin Ucunda – در انتهای شب - 2022 / ترکیه</lastname>
-    <title>چهارشنبه</title>
+    <title>پایان</title>
     <division>*****</division>
     <building>327</building>
     <room>https://newmvbz.bid/?p=71088</room>
@@ -138,18 +147,26 @@
 
   <movie id="002">
     <firstname>سـریال</firstname>
+    <lastname>Gulcemal  – گل‌جمال - 2022 / ترکیه</lastname>
+    <title>جمعه</title>
+    <division>*****</division>
+    <building>327</building>
+    <room>https://newmvbz.bid/?p=73393</room>
+  </movie>
+
+  <movie id="002">
+    <firstname>سـریال</firstname>
     <lastname>Yuz Yillik Mucize – معجزه صد ساله - 2022 / ترکیه</lastname>
     <title>جمعه</title>
     <division>*****</division>
     <building>327</building>
     <room>https://newmvbz.bid/?p=73254</room>
   </movie>
-
-
+  
   <movie id="002">
     <firstname>سـریال</firstname>
     <lastname>Tuzak – تله - 2022 / ترکیه</lastname>
-    <title>جمعه</title>
+    <title>پایان</title>
     <division>*****</division>
     <building>327</building>
     <room>https://newmvbz.bid/?p=71255</room>
